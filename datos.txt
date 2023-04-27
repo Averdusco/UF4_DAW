@@ -1,3 +1,6 @@
 Nombre: Alejandro
 Email: averdusco@institutmvm.cat
 Cargo: Alumno
+Nombre: Albert
+Email: albert@institutmvm.cat
+Cargo: Profesor
